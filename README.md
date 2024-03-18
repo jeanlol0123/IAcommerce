@@ -2,7 +2,7 @@
 
 ## Proyecto integrador de aula
 ---
-<p align="center">![IAcommerce-removebg-preview](https://github.com/jeanlol0123/IAcommerce/assets/102427556/47c99809-785c-4bc6-a338-d901dac26fa2)
+<p align="center"><img src="https://github.com/jeanlol0123/IAcommerce/assets/102427556/47c99809-785c-4bc6-a338-d901dac26fa2)"/>
 </p>
 
 
